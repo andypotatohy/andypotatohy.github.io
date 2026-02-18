@@ -17,8 +17,8 @@ This page displays a collection of courses with detailed schedules, materials, a
 -->
 
 * ## Courses
-    * # course 1
-    * # course 2
+    * ### course 1
+    * ### course 2
 * ## Mentoring
 
 <!-- 
