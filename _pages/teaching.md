@@ -1,20 +1,26 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: By teaching, we learn.
+title: Teaching
+description:
 nav: true
 nav_order: 6
-calendar: true
+calendar: false
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-## Courses
-## Mentoring
+> Docendo discimus
+> By teaching, we learn
 
 <!--
+This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+-->
+
+## Courses
+* course 1
+* course 2
+## Mentoring
+
+
 {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
-{% include courses.liquid %}
--->
+<!-- {% include courses.liquid %} -->
