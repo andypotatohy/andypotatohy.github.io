@@ -16,16 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "nav-blog",
-          title: "blog",
+        },{id: "nav-please-see-my-lt-a-href-39-https-scholar-google-com-citations-user-6dhfia8aaaaj-39-gt-google-scholar-lt-a-gt-page-for-the-most-up-to-date-list",
+          title: "please see my &lt;a href=&#39;https://scholar.google.com/citations?user=6dHFIA8AAAAJ&#39;&gt;Google Scholar&lt;/a&gt; page for the most up-to-date list",
           description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-publications",
-          title: "publications",
-          description: "please see my Google Scholar page for the most up-to-date list of publications.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
