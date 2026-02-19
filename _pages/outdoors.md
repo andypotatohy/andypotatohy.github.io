@@ -4,7 +4,7 @@ permalink: /outdoors/
 title: CV_outdoors
 description:
 nav: true
-nav_order: 8
+nav_order: 6
 ---
 
 > “讀萬卷書，行萬里路”
