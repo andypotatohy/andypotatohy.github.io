@@ -8,7 +8,7 @@ nav_order: 2
 calendar: false
 ---
 
-> Docendo discimus
+> "Docendo discimus"
 >
 > -- Latin proverb (By teaching, we learn)
 

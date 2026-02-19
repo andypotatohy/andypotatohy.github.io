@@ -7,7 +7,7 @@ nav_order: 4
 collection: books
 ---
 
-> 書中自有黃金屋
+> “書中自有黃金屋”
 >
 > -- Chinese proverb (A book holds a house of gold)
 
