@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-02-20'
 papers:
   6dHFIA8AAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -58,7 +58,7 @@ papers:
     title: 'Abstract# 118: Transcranial electrical stimulation models using an emulated-CSF value approximate the meninges more accurately.'
     year: '2019'
   6dHFIA8AAAAJ:CHSYGLWDkRkC:
-    citations: 190
+    citations: 191
     title: Targeted transcranial direct current stimulation for rehabilitation after stroke
     year: '2013'
   6dHFIA8AAAAJ:D_sINldO8mEC:
@@ -82,7 +82,7 @@ papers:
     title: "Transcranial direct current stimulation in obsessive\u2013compulsive disorder: emerging clinical evidence and considerations for optimal montage of electrodes"
     year: '2015'
   6dHFIA8AAAAJ:LPZeul_q3PIC:
-    citations: 634
+    citations: 637
     title: Immediate neurophysiological effects of transcranial electrical stimulation
     year: '2018'
   6dHFIA8AAAAJ:Mojj43d5GZwC:
@@ -122,7 +122,7 @@ papers:
     title: Neuronavigation-free and MRI-free Localization of Deep Brain Targets
     year: '2026'
   6dHFIA8AAAAJ:UxriW0iASnsC:
-    citations: 304
+    citations: 305
     title: "The New York Head\u2014A precise standardized volume conductor model for EEG source localization and tES targeting"
     year: '2016'
   6dHFIA8AAAAJ:VLnqNzywnoUC:
@@ -146,7 +146,7 @@ papers:
     title: High-performance open-source Ai for breast cancer detection and localization in MRI
     year: '2025'
   6dHFIA8AAAAJ:XiSMed-E-HIC:
-    citations: 636
+    citations: 639
     title: Measurements and models of electric fields in the in vivo human brain during transcranial electric stimulation
     year: '2017'
   6dHFIA8AAAAJ:XiVPGOgt02cC:
@@ -190,7 +190,7 @@ papers:
     title: Mapping the electric field of high-definition transcranial electrical stimulation across the lifespan
     year: '2024'
   6dHFIA8AAAAJ:geHnlv5EZngC:
-    citations: 107
+    citations: 108
     title: 'ROAST: an open-source, fully-automated, realistic volumetric-approach-based simulator for TES'
     year: '2018'
   6dHFIA8AAAAJ:ipzZ9siozwsC:
@@ -198,7 +198,7 @@ papers:
     title: "STRENGTH OF TDCS-INDUCED ELECTRICAL FIELD IS ASSOCIATED WITH PSYCHOPHYSIOLOGICAL HABITUATION AND PREDICTS SYMPTOM REDUCTION IN RESPONSE TO TDCS plus VIRTUAL REALITY EXPOSURE \u2026"
     year: '2024'
   6dHFIA8AAAAJ:j8SEvjWlNXcC:
-    citations: 18
+    citations: 19
     title: Early detection of breast cancer in MRI using AI
     year: '2025'
   6dHFIA8AAAAJ:l7t_Zn2s7bgC:
