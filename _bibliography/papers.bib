@@ -99,12 +99,14 @@ selected          = {true},
 	title = {Deep {Learning} {Achieves} {Neuroradiologist}-{Level} {Performance} in {Detecting} {Hydrocephalus} {Requiring} {Treatment}},
 	issn = {1618-727X},
 	abstract = {In large clinical centers a small subset of patients present with hydrocephalus that requires surgical treatment. We aimed to develop a screening tool to detect such cases from the head MRI with performance comparable to neuroradiologists. We leveraged 496 clinical MRI exams collected retrospectively at a single clinical site from patients referred for any reason. This diagnostic dataset was enriched to have 259 hydrocephalus cases. A 3D convolutional neural network was trained on 16 manually segmented exams (ten hydrocephalus) and subsequently used to automatically segment the remaining 480 exams and extract volumetric anatomical features. A linear classifier of these features was trained on 240 exams to detect cases of hydrocephalus that required treatment with surgical intervention. Performance was compared to four neuroradiologists on the remaining 240 exams. Performance was also evaluated on a separate screening dataset of 451 exams collected from a routine clinical population to predict the consensus reading from four neuroradiologists using images alone. The pipeline was also tested on an external dataset of 31 exams from a 2nd clinical site. The most discriminant features were the Magnetic Resonance Hydrocephalic Index (MRHI), ventricle volume, and the ratio between ventricle and brain volume. At matching sensitivity, the specificity of the machine and the neuroradiologists did not show significant differences for detection of hydrocephalus on either dataset (proportions test, p {\textgreater} 0.05). ROC performance compared favorably with the state-of-the-art (AUC 0.90–0.96), and replicated in the external validation. Hydrocephalus cases requiring treatment can be detected automatically from MRI in a heterogeneous patient population based on quantitative characterization of brain anatomy with performance comparable to that of neuroradiologists.},
+	pdf = {https://pmc.ncbi.nlm.nih.gov/articles/PMC9712867/},
 	language = {en},
 	journal = {Journal of Digital Imaging},
 	author = {Huang, Yu and Moreno, Raquel and Malani, Rachna and Meng, Alicia and Swinburne, Nathaniel and Holodny, Andrei I. and Choi, Ye and Rusinek, Henry and Golomb, James B. and George, Ajax and Parra, Lucas C. and Young, Robert J.},
 	month = may,
 	year = {2022},
 	google_scholar_id = {JQOojiI6XY0C},
+	preview = {huangHydro2022.png},
 }
 
 @article{hirsch_radiologist-level_2022,
@@ -132,6 +134,8 @@ When trained on a sufficiently large dataset, the developed 3D U-Net performed a
 	month = jan,
 	year = {2022},
 	pages = {e200231},
+	pdf = {https://pubs.rsna.org/doi/full/10.1148/ryai.200231},
+	preview = {hirschRadiologist2022.jpeg},
 	google_scholar_id = {PR6Y55bgFSsC},
 	selected = {true},
 }
@@ -141,6 +145,7 @@ When trained on a sufficiently large dataset, the developed 3D U-Net performed a
 	volume = {17},
 	issn = {1741-2552},
 	abstract = {Objective. Interferential stimulation (IFS) has generated considerable interest recently because of its potential to achieve focal electric fields in deep brain areas with transcranial currents. Conventionally, IFS applies sinusoidal currents through two electrode pairs with close-by frequencies. Here we propose to use an array of electrodes instead of just two electrode pairs; and to use algorithmic optimization to identify the currents required at each electrode to target a desired location in the brain. Approach. We formulate rigorous optimization criteria for IFS to achieve either maximal modulation-depth or maximally focal stimulation. We find the solution for optimal modulation-depth analytically and maximize for focal stimulation numerically. Main results. Maximal modulation is achieved when IFS equals conventional high-definition multi-electrode transcranial electrical stimulation (HD-TES) with a modulated current source. This optimal solution can be found directly from a current-flow model, i.e. the ‘lead field’ without the need for algorithmic optimization. Once currents are optimized numerically to achieve optimal focal stimulation, we find that IFS can indeed be more focal than conventional HD-TES, both at the cortical surface and deep in the brain. Generally, however, stimulation intensity of IFS is weak and the locus of highest intensity does not match the locus of highest modulation. Significance. This proof-of-principle study shows the potential of IFS over HD-TES for focal non-invasive deep brain stimulation. Future work will be needed to improve on intensity of stimulation and convergence of the optimization procedure.},
+	pdf = {https://www.biorxiv.org/content/10.1101/783423v3.full.pdf},
 	language = {en},
 	number = {3},
 	journal = {Journal of Neural Engineering},
@@ -150,6 +155,7 @@ When trained on a sufficiently large dataset, the developed 3D U-Net performed a
 	year = {2020},
 	pages = {036023},
 	google_scholar_id = {Y5dfb0dijaUC},
+	preview = {huangOptimizeIFS2020.png},
 }
 
 @article{huang_realistic_2019,
@@ -234,7 +240,10 @@ When trained on a sufficiently large dataset, the developed 3D U-Net performed a
 	author = {Guillen, Alexander and Truong, Dennis Q. and Datta, Abhishek and Huang, Yu},
 	year = {2023},
 	pages = {1239105},
+	abstract = {Introduction: Transcranial direct current stimulation (tDCS) has been shown to benefit patients with brain lesions or traumatic brain injury (TBI). These patients usually have skull defects with different sizes and electrical conductivities. There is very little data in the literature that show how to optimally stimulate these patients with the presence of skull defects.Methods: Here we leveraged high-resolution (1 mm) realistic head models to explore the best montages targeting right beneath the skull defects with different sizes and conductivities. Specifically, open-source software ROAST was used to solve for the lead field on the publicly available MIDA model. Four different skull defects/plates were modeled with the center above the right primary motor cortex: a larger defect (10 cm diameter) modeled as either titanium or acrylic plate, and a smaller defect (2.5 cm diameter) modeled as either acute state filled with cerebrospinal fluid (CSF) or chronic state with scar tissue. Optimized stimulation with maximal intensity was run using ROAST targeting the right primary motor cortex.Results: We show that optimized high-definition montages can achieve an average of 0.3 V/m higher stimulation intensities at the target compared to un-optimized montages (M1-SO or 4×1). Large skull defects with titanium or acrylic plates significantly reduce the stimulation intensity by about 80%, while small defects with acute (CSF) or chronic (scar) tissues significantly increase the stimulation intensity by about 200%. Furthermore, one can use M1-SO to achieve almost the same stimulation strength as the optimized montage if the skull has a large defect with titanium plate, and there is no significant difference in stimulation intensity between 4×1 montage and the optimized montage for small skull defects with scar tissue.Discussion: Based on this work, future modeling studies leveraging individual anatomy of skull defects may help guide tDCS practice on patients with skull defects and skull plates.},
+	pdf = {https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1239105/full},
 	google_scholar_id = {tzM49s52ZIMC},
+	prview = {guillenOptimized2023.png},
 }
 
 @article{huang_visualizing_2023,
@@ -245,5 +254,8 @@ When trained on a sufficiently large dataset, the developed 3D U-Net performed a
 	author = {Huang, Yu},
 	year = {2023},
 	pages = {1239114},
+	pdf = {https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1239114/full},
+	abstract = {Introduction: Transcranial electrical stimulation (TES) is limited in focally stimulating deep-brain regions, even with optimized stimulation montages. Recently, interferential stimulation (IFS), also known as transcranial temporal interference stimulation (TI, TIS, or tTIS), has drawn much attention in the TES community as both computational and experimental studies show that IFS can reach deep-brain areas. However, the underlying electrodynamics of IFS is complicated and difficult to visualize. Existing literature only shows static visualization of the interfered electric field induced by IFS. These could result in a simplified understanding that there is always one static focal spot between the two pairs of stimulation electrodes. This static visualization can be frequently found in the IFS literature. Here, we aimed to systematically visualize the entire dynamics of IFS.Methods and results: Following the previous study, the lead field was solved for the MNI-152 head, and optimal montages using either two pairs of electrodes or two arrays of electrodes were found to stimulate a deep-brain region close to the left striatum with the highest possible focality. We then visualized the two stimulating electrical currents injected with similar frequencies. We animated the instant electric field vector at the target and one exemplary off-target location both in 3D space and as a 2D Lissajous curve. We finally visualized the distribution of the interfered electric field and the amplitude modulation envelope at an axial slice going through the target location. These two quantities were visualized in two directions: radial-in and posterior–anterior.Discussion: We hope that with intuitive visualization, this study can contribute as an educational resource to the community’s understanding of IFS as a powerful modality for non-invasive focal deep-brain stimulation.},
 	google_scholar_id = {2KloaMYe4IUC},
+	preview = {huangVisual2023.png},
 }
