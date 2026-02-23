@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-20'
+  last_updated: '2026-02-23'
 papers:
   6dHFIA8AAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -138,15 +138,15 @@ papers:
     title: 'Applications of open-source software ROAST in clinical studies: A review'
     year: '2022'
   6dHFIA8AAAAJ:WA5NYHcadZ8C:
-    citations: 53
+    citations: 54
     title: Enhanced tES and tDCS computational models by meninges emulation
     year: '2020'
   6dHFIA8AAAAJ:XD-gHx7UXLsC:
-    citations: 10
+    citations: 11
     title: High-performance open-source Ai for breast cancer detection and localization in MRI
     year: '2025'
   6dHFIA8AAAAJ:XiSMed-E-HIC:
-    citations: 639
+    citations: 640
     title: Measurements and models of electric fields in the in vivo human brain during transcranial electric stimulation
     year: '2017'
   6dHFIA8AAAAJ:XiVPGOgt02cC:
@@ -174,7 +174,7 @@ papers:
     title: 'Proceedings# 13: Improving penetration depth of transcranial electrical stimulation without compromising surface focality: A modeling analysis'
     year: '2019'
   6dHFIA8AAAAJ:eMMeJKvmdy0C:
-    citations: 21
+    citations: 22
     title: Concurrent imaging of markers of current flow and neurophysiological changes during tDCS
     year: '2020'
   6dHFIA8AAAAJ:eflP2zaiRacC:
@@ -186,7 +186,7 @@ papers:
     title: Assessing suitability of ultra-low-field MRI for TES electric field models
     year: '2026'
   6dHFIA8AAAAJ:fEOibwPWpKIC:
-    citations: 16
+    citations: 17
     title: Mapping the electric field of high-definition transcranial electrical stimulation across the lifespan
     year: '2024'
   6dHFIA8AAAAJ:geHnlv5EZngC:
