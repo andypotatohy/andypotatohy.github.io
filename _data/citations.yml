@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-02-27'
 papers:
   6dHFIA8AAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -82,7 +82,7 @@ papers:
     title: "Transcranial direct current stimulation in obsessive\u2013compulsive disorder: emerging clinical evidence and considerations for optimal montage of electrodes"
     year: '2015'
   6dHFIA8AAAAJ:LPZeul_q3PIC:
-    citations: 637
+    citations: 638
     title: Immediate neurophysiological effects of transcranial electrical stimulation
     year: '2018'
   6dHFIA8AAAAJ:Mojj43d5GZwC:
@@ -110,7 +110,7 @@ papers:
     title: Radiologist-level performance by using deep learning for segmentation of breast cancers on MRI scans
     year: '2021'
   6dHFIA8AAAAJ:SP6oXDckpogC:
-    citations: 29
+    citations: 30
     title: A highly detailed FEM volume conductor model based on the ICBM152 average head template for EEG source imaging and TCS targeting
     year: '2015'
   6dHFIA8AAAAJ:Tiz5es2fbqcC:
@@ -146,7 +146,7 @@ papers:
     title: High-performance open-source Ai for breast cancer detection and localization in MRI
     year: '2025'
   6dHFIA8AAAAJ:XiSMed-E-HIC:
-    citations: 640
+    citations: 642
     title: Measurements and models of electric fields in the in vivo human brain during transcranial electric stimulation
     year: '2017'
   6dHFIA8AAAAJ:XiVPGOgt02cC:
@@ -198,7 +198,7 @@ papers:
     title: "STRENGTH OF TDCS-INDUCED ELECTRICAL FIELD IS ASSOCIATED WITH PSYCHOPHYSIOLOGICAL HABITUATION AND PREDICTS SYMPTOM REDUCTION IN RESPONSE TO TDCS plus VIRTUAL REALITY EXPOSURE \u2026"
     year: '2024'
   6dHFIA8AAAAJ:j8SEvjWlNXcC:
-    citations: 19
+    citations: 20
     title: Early detection of breast cancer in MRI using AI
     year: '2025'
   6dHFIA8AAAAJ:l7t_Zn2s7bgC:
