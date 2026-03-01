@@ -14,10 +14,10 @@ nav_order: 3
     * Associate Editor, <a href = 'https://www.frontiersin.org/journals/human-neuroscience'>Frontiers in Human Neuroscience</a>, 2023-present
     * Member of Scientific Committee, <a href='https://www.ismrm.org/workshops/2022/Neuromodulation/'>Workshop on MRI of Neuromodulation, ISMRM2022</a>
     * Peer reviewer for academic conferences such as ISMRM2022, <a href = 'https://www.embs.org/'>IEEE EMBC</a> 2019, <a href = 'https://www.humanbrainmapping.org/'>OHBM</a>2019, <a href='https://neuromodec.org/nycnans2018/'>NYC Neuromodulation 2018</a>
-    * Peer reviewer for academic journals such as Brain Stimulation, PloS One, IEEE Transactions, Journal of Neural Engineering, etc, 2017–present
+    * Peer reviewer for academic journals such as <a href = 'https://www.sciencedirect.com/journal/brain-stimulation'>Brain Stimulation</a>, <a href = 'https://journals.plos.org/plosone/'>PloS One</a>, IEEE Transactions, <a href = 'https://iopscience.iop.org/journal/1741-2552'>Journal of Neural Engineering</a>, etc, 2017–present
     * Creator, contributor, maintainer and admin for the open-source software <a href = 'https://github.com/andypotatohy/roast'>ROAST</a> and <a href = 'https://groups.google.com/g/roast-users'>users’ mailing list</a>, 2017–present
         
-* ### CCNY
+* ### <a href='https://www.ccny.cuny.edu/'>CCNY</a>
     * Panelist, Devices & Product Development, BMES Graduate Student Chapter, Dec 2024
     * Admin of HPC cluster "Edison", CCNY Neural Engineering Lab, 2014--2019
     * Panelist, Graduate Students Chat with BMES Undergraduate Student Chapter, Nov 2014
