@@ -42,7 +42,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/example_pdf.pdf";
+            window.location.href = "/assets/pdf/yu_huang_CV2026.pdf";
           },
         },{id: "nav-cv-outdoors",
           title: "CV_outdoors",
