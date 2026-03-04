@@ -32,10 +32,10 @@ Trained as a biomedical engineer, I created <a href='https://github.com/andypota
 
 So here’s my visions for my upcoming tenure-track position:
 
-    * Create AI systems (mechanistic and/or data-driven) for biomedical engineering and informatics. I would not call it "AI for Science", as AI does not understand science. It’s just a tool, so it's essentially <a href='https://www.nature.com/articles/s41586-025-09922-y'>AI for *scientists*</a> or more broadly, AI for human
+* Create AI systems (mechanistic and/or data-driven) for biomedical engineering and informatics. I would not call it "AI for Science", as AI does not understand science. It’s just a tool, so it's essentially <a href='https://www.nature.com/articles/s41586-025-09922-y'>AI for *scientists*</a> or more broadly, AI for human
 
-    * LLMs are a monster we created that we don’t even understand. We don’t understand why they hallucinate because we don't fully understand its building blocks. We don’t even fully understand an <a href='https://en.wikipedia.org/wiki/Multilayer_perceptron'>MLP</a>. But this monster offers a tool to study both machine and biological cognition. So instead of scaling everything up, I want to dig everything down. I would call this Aronscience (artificial neuroscience), or Science for AI.
+* LLMs are a monster we created that we don’t even understand. We don’t understand why they hallucinate because we don't fully understand its building blocks. We don’t even fully understand an <a href='https://en.wikipedia.org/wiki/Multilayer_perceptron'>MLP</a>. But this monster offers a tool to study both machine and biological cognition. So instead of scaling everything up, I want to dig everything down. I would call this Aronscience (artificial neuroscience), or Science for AI.
 
-    * Create next generation of AI with world models and intrinsic goal-chasing ability, leveraging our current understandings in biology instead of computer science (definitely not language models). I'd call it Science-Inspired AI. The ultimate question asks, both philosophically and scientifically, can computation alone achieve human-level autonomous intelligence?
+* Create next generation of AI with world models and intrinsic goal-chasing ability, leveraging our current understandings in biology instead of computer science (definitely not language models). I'd call it Science-Inspired AI. The ultimate question asks, both philosophically and scientifically, can computation alone achieve human-level autonomous intelligence?
 
 Feel inspired? Shoot me an email for anything (ideas, discussions, collaborations, etc.). I'm hiring one PhD student in the 2026--2027 academic year (email me for details).
