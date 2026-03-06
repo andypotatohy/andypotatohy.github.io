@@ -38,6 +38,6 @@ nav_order: 6
     * 2016, Co-leader, Wonder Lake Campground, Denali National Park, AK
 
 * ### Swimming
-    * 2009, lifeguard, Palm Pools, Woodbridge, VA
+    * 2009, Lifeguard, Palm Pools, Woodbridge, VA
     
 

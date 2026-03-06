@@ -38,4 +38,4 @@ So here’s my visions for my upcoming tenure-track position:
 
 * Create next generation of AI with world models and intrinsic goal-chasing ability, leveraging our current understandings in biology instead of computer science (definitely not language models). I'd call it Science-Inspired AI. The ultimate question asks, both philosophically and scientifically, can computation alone achieve human-level autonomous intelligence?
 
-Feel inspired? Shoot me an email for anything (ideas, discussions, collaborations, etc.). I'm hiring one PhD student in the 2026--2027 academic year (email me for details).
+Feeling inspired? Shoot me an email for anything (ideas, discussions, collaborations, etc.). I'm hiring one PhD student in the 2026--2027 academic year (email me for details).
