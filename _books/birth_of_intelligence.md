@@ -4,7 +4,7 @@ title: Birth of Intelligence -- From RNA to Artificial Intelligence
 author: Daeyeol Lee
 cover: #assets/img/book_covers/the_godfather.jpg
 olid: OL30623253M # use Open Library ID to fetch cover (if no `cover` is provided)
-isbn: 978-0190908324 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
+isbn: 0190908327 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: biology neuroscience AI
 tags: #top-100
 buy_link: https://www.amazon.com/Birth-Intelligence-RNA-Artificial/dp/0190908327
@@ -14,7 +14,7 @@ finished: #2024-09-07
 released: 2020
 stars:  #5
 goodreads_review: #6318556633
-status: #Finished
+status: Finished
 ---
 
 This book links intelligence with life.
