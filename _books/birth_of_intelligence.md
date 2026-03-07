@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Birth of Intelligence: From RNA to Artificial Intelligence
+title: Birth of Intelligence From RNA to Artificial Intelligence
 author: Daeyeol Lee
 cover: assets/img/book_covers/the_godfather.jpg
 olid: 0190908327 # use Open Library ID to fetch cover (if no `cover` is provided)
