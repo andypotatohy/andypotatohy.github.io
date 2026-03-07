@@ -418,7 +418,7 @@ ninja.data = [{
           title: '',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/birthOfIntelligence/";
+              window.location.href = "/books/birth_of_intelligence/";
             },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
