@@ -414,12 +414,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "books-birth-of-intelligence-from-rna-to-artificial-intelligence",
+      },{id: "books-birth-of-intelligence-from-rna-to-artificial-intelligence",
           title: 'Birth of Intelligence -- From RNA to Artificial Intelligence',
           description: "",
           section: "Books",handler: () => {
