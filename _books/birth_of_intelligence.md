@@ -14,7 +14,7 @@ finished: #2024-09-07
 released: 2020
 stars:  #5
 goodreads_review: #6318556633
-status: To read
+status: Interested
 ---
 
 This book links intelligence with life.
