@@ -8,8 +8,8 @@ isbn: #0190908327 # use ISBN to fetch cover (if no `olid` is provided, dashes ar
 categories: biology neuroscience AI
 tags: #top-100
 buy_link: https://www.amazon.com/Birth-Intelligence-RNA-Artificial/dp/0190908327
-date: 2026-03-04
-started: #2026-03-04
+date: 2025-08-04
+started: 2025-08-04
 finished: #2024-09-07
 released: 2020
 stars:  #5
