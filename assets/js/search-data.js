@@ -414,7 +414,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-birth-of-intelligence-from-rna-to-artificial-intelligence",
+      },{id: "books-the-selfish-gene",
+          title: 'The Selfish Gene',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_selfish_gene/";
+            },},{id: "books-birth-of-intelligence-from-rna-to-artificial-intelligence",
           title: 'Birth of Intelligence -- From RNA to Artificial Intelligence',
           description: "",
           section: "Books",handler: () => {
