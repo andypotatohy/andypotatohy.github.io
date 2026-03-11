@@ -17,4 +17,4 @@ goodreads_review:
 status: Interested
 ---
 
-This book query in an interesting angle on intelligence and the philosophy of mind, covering topics such as meaning, logics, rules, self-reference, epistemology, etc.
+This book queries in an interesting angle on intelligence and the philosophy of mind, covering topics such as meaning, logics, rules, self-reference, epistemology, etc.

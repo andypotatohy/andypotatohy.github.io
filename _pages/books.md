@@ -11,4 +11,4 @@ collection: books
 >
 > -- Chinese proverb (A book holds a house of gold)
 
-## Books that I am reading, have read, or will read
+## Books that I want to read
