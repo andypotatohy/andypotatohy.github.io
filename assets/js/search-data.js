@@ -424,6 +424,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/birth_of_intelligence/";
+            },},{id: "books-conscious-mind-resonant-brain-how-each-brain-makes-a-mind",
+          title: 'Conscious Mind, Resonant Brain -- How Each Brain Makes a Mind',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/conscious_mind_resonant_brain/";
+            },},{id: "books-how-to-build-conscious-machines",
+          title: 'How To Build Conscious Machines',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/how_to_build_conscious_machines/";
+            },},{id: "books-gödel-escher-bach-an-eternal-golden-braid",
+          title: 'Gödel, Escher, Bach -- an Eternal Golden Braid',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/godel_escher_bach/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
