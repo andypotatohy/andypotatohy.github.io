@@ -419,6 +419,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_selfish_gene/";
+            },},{id: "books-the-feynman-lectures-on-physics",
+          title: 'The Feynman Lectures on Physics',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_feynman_lectures_on_physics/";
             },},{id: "books-birth-of-intelligence-from-rna-to-artificial-intelligence",
           title: 'Birth of Intelligence -- From RNA to Artificial Intelligence',
           description: "",
