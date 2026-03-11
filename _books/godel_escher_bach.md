@@ -5,7 +5,7 @@ author: Douglas Hofstadter
 cover: assets/img/book_covers/godel_escher_bach.jpg
 olid: #OL30623253M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: #0190908327 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: science arts mathematics cognitive science psychology philosophy of mind
+categories: science arts mathematics cognitive_science psychology philosophy_of_mind
 tags: #top-100
 buy_link: https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0394756827
 date: 2026-03-01
