@@ -17,4 +17,4 @@ goodreads_review: #6318556633
 status: Interested
 ---
 
-This book links intelligence with life.
+This book argues that intelligence cannot exist without life.
