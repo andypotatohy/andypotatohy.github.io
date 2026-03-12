@@ -23,7 +23,7 @@ nav_order: 6
     * Finisher of <a href='https://www.bike.nyc/events/td-five-boro-bike-tour/'>NYC 5-boro Bike Tour</a>, 2018, 2019 (no official time as it's not a race)
     
 * ### Backpacking
-    * 2024, Team member, 4-night trip at <a href='/assets/img/outdoorPic/peru.JPG'>the Salkantay Trail</a> (~30 miles hiking, ~12 miles horse riding, elevation up to 15,000 feet), Cusco, Peru (cheated in this one as it's a commercial route where they offered horses to carry our gears :joy:)
+    * 2024, Team member, 4-night trip at <a href='https://andypotatohy.github.io/assets/img/outdoorPic/peru.JPG'>the Salkantay Trail</a> (~30 miles hiking, ~12 miles horse riding, elevation up to 15,000 feet), Cusco, Peru (cheated in this one as it's a commercial route where they offered horses to carry our gears :joy:)
     * 2021, Solo traveler, 1-night trip at the Lawn Lake trail (~12 miles, elevation gain 2500 feet), Rocky Mountain National Park, Estes Park, CO
     * 2017, Co-leader, 3-night trip at the Four Pass Loop (~27 miles, elevation gain 7800 feet), Aspen, CO
     
