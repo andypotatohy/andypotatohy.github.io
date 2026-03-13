@@ -21,7 +21,7 @@ This page displays a collection of courses with detailed schedules, materials, a
     * TA: <a href='https://www.parralab.org/teaching/med-imaging/'>BME I5000 -- Medical Imaging and Image Processing (graduate)</a>, Fall 2013
     * TA: <a href='https://www.parralab.org/teaching/biomed-dsp/'>BME I5100 -- Biomedical Signal Processing (graduate)</a>, Spring 2016
     * Guest lectures: Medical Image Segmentation, Fall 2013, Spring 2021
-    * Guest lectures: Machine Learning Primer, Fall 2022, Spring 2024
+    * Guest lectures: <a href='https://andypotatohy.github.io/assets/pdf/machineLearningPrimer.pdf'>Machine Learning Primer</a>, Fall 2022, Spring 2024
 <!--attach my slides here-->
 
 * ### Mentoring
