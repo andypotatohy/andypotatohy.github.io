@@ -20,12 +20,16 @@ This page displays a collection of courses with detailed schedules, materials, a
     * Head TA: <a href = 'https://www.parralab.org/teaching/signal-and-image/'>BME 50500 -- Image and Signal Processing in Biomedicine (undergraduate)</a>, Fall 2015, Fall 2014
     * TA: <a href='https://www.parralab.org/teaching/med-imaging/'>BME I5000 -- Medical Imaging and Image Processing (graduate)</a>, Fall 2013
     * TA: <a href='https://www.parralab.org/teaching/biomed-dsp/'>BME I5100 -- Biomedical Signal Processing (graduate)</a>, Spring 2016
-    * Guest lectures: Medical Image Segmentation, Fall 2013, Spring 2021
+    * Guest lectures: <a href='https://andypotatohy.github.io/assets/pdf/segTeach.pdf'>Medical Image Segmentation</a>, Fall 2013, Spring 2021
     * Guest lectures: <a href='https://andypotatohy.github.io/assets/pdf/machineLearningPrimer.pdf'>Machine Learning Primer</a>, Fall 2022, Spring 2024
 <!--attach my slides here-->
 
 * ### Mentoring
-I'm hornored to work with these smart students:
+I'm hornored to work with these smart students recently:
+    * <a href='https://www.linkedin.com/in/kaelyn-c/'>Kaelyn Chang</a>, June 2024–Jan 2026
+    * <a href='https://www.linkedin.com/in/andrew-birnbaum/'>Andrew Birnbaum</a>, Jan 2024--Jun 2025
+    * <a href='https://www.linkedin.com/in/tapasi-brahma/'>Tapasi Brahma</a>, Jun 2023--Dec 2023
+    * <a href='https://www.linkedin.com/in/mohigul-nasimova-4624a5203/'>Mohigul Nasimova</a>, June 2021–Apr 2022
 
 * ### Invited Talks
     * <a href='https://andypotatohy.github.io/assets/pdf/aicTIsymps.pdf'>TI stimulation - pros, cons, and future directions</a>, Special Symposium at <a href = 'https://aic.socsci.uci.edu/'>The 50th Annual Interdisciplinary Conference</a>, Jackson Hole, WY, January 18, 2026
