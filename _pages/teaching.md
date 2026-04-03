@@ -33,6 +33,7 @@ I'm hornored to work with these smart students recently:
 
 * ### Invited Talks
     * <a href='https://andypotatohy.github.io/assets/pdf/aicTIsymps.pdf'>TI stimulation - pros, cons, and future directions</a>, Special Symposium at <a href = 'https://aic.socsci.uci.edu/'>The 50th Annual Interdisciplinary Conference</a>, Jackson Hole, WY, January 18, 2026
+    * 大語言模型真的能理解這個世界嗎？纽约文化沙龙第二届沙龙嘉年华，2025年8月
     * <a href='https://andypotatohy.github.io/assets/pdf/Huang_Y_neuromodec2024.pdf'>Personalization and Validation of Electric Field Models for Transcranial Electrical Stimulation</a>, Pre-Conference Workshop of <a href='https://neuromodec.org/nyc-neuromodulation-2024/'>The 2024 NYC Neuromodulation Conference</a>: Computational Neuromodulation Workshop: Modeling brain stimulation fundamental and applications, New York, NY, July 31, 2024
     * <a href='https://andypotatohy.github.io/assets/pdf/yu_andy_huang_ismrm2022.pdf'>ROAST – An Open-Source Platform for Modeling Transcranial Electrical Stimulation & its Validation</a>, <a href='https://www.ismrm.org/workshops/2022/Neuromodulation/'>ISMRM Workshop on MRI of Neuromodulation</a>: Target Engagement, Neural Mechanism & Biomarker Development, Bethesda, MD, October 2022
     * Computational Models of Transcranial Electrical Stimulation: Methodology, Optimization and Validations, <a href='https://2021.smb.org/'>Society for Mathematical Biology 2021 Annual Meeting (Virtual)</a>, June 2021
