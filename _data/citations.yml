@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-04-03'
 papers:
   6dHFIA8AAAAJ:-_dYPAW6P2MC:
-    citations: 1
+    citations: 2
     title: Cross-site Validation of AI Segmentation and Harmonization in Breast MRI
     year: '2025'
   6dHFIA8AAAAJ:08ZZubdj9fEC:
@@ -14,7 +14,7 @@ papers:
     title: 'Combined behavioral and electrophysiological evidence for a direct cortical effect of prefrontal tDCS on disorders of consciousness. Sci Rep 2020; 10: 4323'
     year: '2018'
   6dHFIA8AAAAJ:1sJd4Hv_s6UC:
-    citations: 211
+    citations: 212
     title: Automated MRI segmentation for individualized modeling of current flow in the human head
     year: '2013'
   6dHFIA8AAAAJ:1yQoGdGgb4wC:
@@ -26,7 +26,7 @@ papers:
     title: Visualizing Interferential Stimulation of Human Brains
     year: '2023'
   6dHFIA8AAAAJ:4fKUyHm3Qg0C:
-    citations: 34
+    citations: 35
     title: 'Correction: Measurements and models of electric fields in the in vivo human brain during transcranial electric stimulation'
     year: '2018'
   6dHFIA8AAAAJ:5Ul4iDaHHb8C:
@@ -82,7 +82,7 @@ papers:
     title: "Transcranial direct current stimulation in obsessive\u2013compulsive disorder: emerging clinical evidence and considerations for optimal montage of electrodes"
     year: '2015'
   6dHFIA8AAAAJ:LPZeul_q3PIC:
-    citations: 645
+    citations: 653
     title: Immediate neurophysiological effects of transcranial electrical stimulation
     year: '2018'
   6dHFIA8AAAAJ:Mojj43d5GZwC:
@@ -122,7 +122,7 @@ papers:
     title: Neuronavigation-free and MRI-free Localization of Deep Brain Targets
     year: '2026'
   6dHFIA8AAAAJ:UxriW0iASnsC:
-    citations: 306
+    citations: 307
     title: "The New York Head\u2014A precise standardized volume conductor model for EEG source localization and tES targeting"
     year: '2016'
   6dHFIA8AAAAJ:VLnqNzywnoUC:
@@ -138,7 +138,7 @@ papers:
     title: 'Applications of open-source software ROAST in clinical studies: A review'
     year: '2022'
   6dHFIA8AAAAJ:WA5NYHcadZ8C:
-    citations: 56
+    citations: 57
     title: Enhanced tES and tDCS computational models by meninges emulation
     year: '2020'
   6dHFIA8AAAAJ:XD-gHx7UXLsC:
@@ -146,7 +146,7 @@ papers:
     title: High-performance open-source Ai for breast cancer detection and localization in MRI
     year: '2025'
   6dHFIA8AAAAJ:XiSMed-E-HIC:
-    citations: 648
+    citations: 651
     title: Measurements and models of electric fields in the in vivo human brain during transcranial electric stimulation
     year: '2017'
   6dHFIA8AAAAJ:XiVPGOgt02cC:
@@ -186,7 +186,7 @@ papers:
     title: Assessing suitability of ultra-low-field MRI for TES electric field models
     year: '2026'
   6dHFIA8AAAAJ:fEOibwPWpKIC:
-    citations: 17
+    citations: 18
     title: Mapping the electric field of high-definition transcranial electrical stimulation across the lifespan
     year: '2024'
   6dHFIA8AAAAJ:geHnlv5EZngC:
@@ -198,11 +198,11 @@ papers:
     title: "STRENGTH OF TDCS-INDUCED ELECTRICAL FIELD IS ASSOCIATED WITH PSYCHOPHYSIOLOGICAL HABITUATION AND PREDICTS SYMPTOM REDUCTION IN RESPONSE TO TDCS plus VIRTUAL REALITY EXPOSURE \u2026"
     year: '2024'
   6dHFIA8AAAAJ:j8SEvjWlNXcC:
-    citations: 23
+    citations: 25
     title: Early detection of breast cancer in MRI using AI
     year: '2025'
   6dHFIA8AAAAJ:l7t_Zn2s7bgC:
-    citations: 437
+    citations: 441
     title: "Realistic volumetric-approach to simulate transcranial electric stimulation\u2014ROAST\u2014a fully automated open-source pipeline"
     year: '2019'
   6dHFIA8AAAAJ:nb7KW1ujOQ8C:
