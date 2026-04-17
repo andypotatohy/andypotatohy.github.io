@@ -8,6 +8,7 @@ nav_order: 3
 ---
 
 * ### Research Communities
+    * Judge, <a href = 'https://www.nih.gov/challenges/nih-complement-animal-research-experimentation-nams-reduction-practice-challenge'>NIH Complement Animal Research in Experimentation NAMs Reduction to Practice Challenge</a>, 2026
     * Project Mentor, <a href = 'https://portal.neuromatchacademy.org/sign-in'>Neuromatch Academy</a>, Jul 2025
     * Peer reviewer at the NIH Study Section, 2025
     * Moderator, <a href = 'https://connect.neuromodec.org/events/UQSNQjTrubvE6EoxVUng'>Machine learning in non-invasive electromagnetic brain stimulation, Neuromodec Webinar Series</a>, Feb 2024
