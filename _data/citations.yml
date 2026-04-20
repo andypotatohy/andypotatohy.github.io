@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-20'
 papers:
   6dHFIA8AAAAJ:-_dYPAW6P2MC:
     citations: 2
@@ -10,7 +10,7 @@ papers:
     title: A study of Electromyogram based on human-computer interface
     year: '2009'
   6dHFIA8AAAAJ:0KyAp5RtaNEC:
-    citations: 8
+    citations: 9
     title: 'Combined behavioral and electrophysiological evidence for a direct cortical effect of prefrontal tDCS on disorders of consciousness. Sci Rep 2020; 10: 4323'
     year: '2018'
   6dHFIA8AAAAJ:1sJd4Hv_s6UC:
@@ -49,6 +49,10 @@ papers:
     citations: 0
     title: Deep brain areas can be reached by transcranial electric stimulation with multiple electrodes
     year: '2019'
+  6dHFIA8AAAAJ:AvfA0Oy_GE0C:
+    citations: 0
+    title: On the feasibility of temporal interference stimulation of human brains using two arrays of electrodes
+    year: '2026'
   6dHFIA8AAAAJ:B3FOqHPlNUQC:
     citations: 2
     title: 'Author Correction: Low frequency transcranial electrical stimulation does not entrain sleep rhythms measured by human intracranial recordings'
@@ -74,15 +78,15 @@ papers:
     title: Deep learning achieves neuroradiologist-level performance in detecting hydrocephalus requiring treatment
     year: '2022'
   6dHFIA8AAAAJ:K3LRdlH-MEoC:
-    citations: 253
+    citations: 254
     title: Low frequency transcranial electrical stimulation does not entrain sleep rhythms measured by human intracranial recordings
     year: '2017'
   6dHFIA8AAAAJ:KxtntwgDAa4C:
-    citations: 87
+    citations: 88
     title: "Transcranial direct current stimulation in obsessive\u2013compulsive disorder: emerging clinical evidence and considerations for optimal montage of electrodes"
     year: '2015'
   6dHFIA8AAAAJ:LPZeul_q3PIC:
-    citations: 658
+    citations: 662
     title: Immediate neurophysiological effects of transcranial electrical stimulation
     year: '2018'
   6dHFIA8AAAAJ:Mojj43d5GZwC:
@@ -146,7 +150,7 @@ papers:
     title: High-performance open-source Ai for breast cancer detection and localization in MRI
     year: '2025'
   6dHFIA8AAAAJ:XiSMed-E-HIC:
-    citations: 656
+    citations: 658
     title: Measurements and models of electric fields in the in vivo human brain during transcranial electric stimulation
     year: '2017'
   6dHFIA8AAAAJ:XiVPGOgt02cC:
@@ -202,7 +206,7 @@ papers:
     title: Early detection of breast cancer in MRI using AI
     year: '2025'
   6dHFIA8AAAAJ:l7t_Zn2s7bgC:
-    citations: 446
+    citations: 448
     title: "Realistic volumetric-approach to simulate transcranial electric stimulation\u2014ROAST\u2014a fully automated open-source pipeline"
     year: '2019'
   6dHFIA8AAAAJ:nb7KW1ujOQ8C:
@@ -210,7 +214,7 @@ papers:
     title: Simulating pad-electrodes with high-definition arrays in transcranial electric stimulation
     year: '2014'
   6dHFIA8AAAAJ:olpn-zPbct0C:
-    citations: 3
+    citations: 4
     title: Optimized Transcutaneous Spinal Cord Direct Current Stimulation using Multiple Electrodes from 3/9/7 System
     year: '2019'
   6dHFIA8AAAAJ:sSrBHYA8nusC:
