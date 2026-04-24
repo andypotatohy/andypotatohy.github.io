@@ -434,6 +434,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/conscious_mind_resonant_brain/";
+            },},{id: "books-active-inference-the-free-energy-principle-in-mind-brain-and-behavior",
+          title: 'Active Inference -- The Free Energy Principle in Mind, Brain, and Behavior',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/active_inference_free_energy_principle/";
             },},{id: "books-how-to-build-conscious-machines",
           title: 'How To Build Conscious Machines',
           description: "",
