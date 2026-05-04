@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-04'
 papers:
   6dHFIA8AAAAJ:-_dYPAW6P2MC:
     citations: 2
@@ -14,7 +14,7 @@ papers:
     title: 'Combined behavioral and electrophysiological evidence for a direct cortical effect of prefrontal tDCS on disorders of consciousness. Sci Rep 2020; 10: 4323'
     year: '2018'
   6dHFIA8AAAAJ:1sJd4Hv_s6UC:
-    citations: 213
+    citations: 214
     title: Automated MRI segmentation for individualized modeling of current flow in the human head
     year: '2013'
   6dHFIA8AAAAJ:1yQoGdGgb4wC:
@@ -86,7 +86,7 @@ papers:
     title: "Transcranial direct current stimulation in obsessive\u2013compulsive disorder: emerging clinical evidence and considerations for optimal montage of electrodes"
     year: '2015'
   6dHFIA8AAAAJ:LPZeul_q3PIC:
-    citations: 667
+    citations: 669
     title: Immediate neurophysiological effects of transcranial electrical stimulation
     year: '2018'
   6dHFIA8AAAAJ:Mojj43d5GZwC:
@@ -150,7 +150,7 @@ papers:
     title: High-performance open-source Ai for breast cancer detection and localization in MRI
     year: '2025'
   6dHFIA8AAAAJ:XiSMed-E-HIC:
-    citations: 659
+    citations: 662
     title: Measurements and models of electric fields in the in vivo human brain during transcranial electric stimulation
     year: '2017'
   6dHFIA8AAAAJ:XiVPGOgt02cC:
@@ -202,11 +202,11 @@ papers:
     title: "STRENGTH OF TDCS-INDUCED ELECTRICAL FIELD IS ASSOCIATED WITH PSYCHOPHYSIOLOGICAL HABITUATION AND PREDICTS SYMPTOM REDUCTION IN RESPONSE TO TDCS plus VIRTUAL REALITY EXPOSURE \u2026"
     year: '2024'
   6dHFIA8AAAAJ:j8SEvjWlNXcC:
-    citations: 26
+    citations: 28
     title: Early detection of breast cancer in MRI using AI
     year: '2025'
   6dHFIA8AAAAJ:l7t_Zn2s7bgC:
-    citations: 449
+    citations: 450
     title: "Realistic volumetric-approach to simulate transcranial electric stimulation\u2014ROAST\u2014a fully automated open-source pipeline"
     year: '2019'
   6dHFIA8AAAAJ:nb7KW1ujOQ8C:
