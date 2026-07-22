@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-22'
 papers:
   6dHFIA8AAAAJ:-_dYPAW6P2MC:
     citations: 2
@@ -14,11 +14,11 @@ papers:
     title: 'Combined behavioral and electrophysiological evidence for a direct cortical effect of prefrontal tDCS on disorders of consciousness. Sci Rep 2020; 10: 4323'
     year: '2018'
   6dHFIA8AAAAJ:1sJd4Hv_s6UC:
-    citations: 215
+    citations: 216
     title: Automated MRI segmentation for individualized modeling of current flow in the human head
     year: '2013'
   6dHFIA8AAAAJ:1yQoGdGgb4wC:
-    citations: 11
+    citations: 12
     title: Comparison of optimized interferential stimulation using two pairs of electrodes and two arrays of electrodes
     year: '2021'
   6dHFIA8AAAAJ:2KloaMYe4IUC:
@@ -26,11 +26,11 @@ papers:
     title: Visualizing Interferential Stimulation of Human Brains
     year: '2023'
   6dHFIA8AAAAJ:4fKUyHm3Qg0C:
-    citations: 35
+    citations: 36
     title: 'Correction: Measurements and models of electric fields in the in vivo human brain during transcranial electric stimulation'
     year: '2018'
   6dHFIA8AAAAJ:5Ul4iDaHHb8C:
-    citations: 160
+    citations: 163
     title: Can transcranial electric stimulation with multiple electrodes reach deep targets?
     year: '2019'
   6dHFIA8AAAAJ:7T2F9Uy0os0C:
@@ -42,7 +42,7 @@ papers:
     title: 'Exploration of the effect of race on cortical current flow due to transcranial direct current stimulation: comparison across Caucasian, Chinese, and Indian Standard Brains'
     year: '2018'
   6dHFIA8AAAAJ:9Nmd_mFXekcC:
-    citations: 16
+    citations: 17
     title: On the need of individually optimizing temporal interference stimulation of human brains due to inter-individual variability
     year: '2025'
   6dHFIA8AAAAJ:9vf0nzSNQJEC:
@@ -78,7 +78,7 @@ papers:
     title: Deep learning achieves neuroradiologist-level performance in detecting hydrocephalus requiring treatment
     year: '2022'
   6dHFIA8AAAAJ:K3LRdlH-MEoC:
-    citations: 257
+    citations: 259
     title: Low frequency transcranial electrical stimulation does not entrain sleep rhythms measured by human intracranial recordings
     year: '2017'
   6dHFIA8AAAAJ:KxtntwgDAa4C:
@@ -86,7 +86,7 @@ papers:
     title: "Transcranial direct current stimulation in obsessive\u2013compulsive disorder: emerging clinical evidence and considerations for optimal montage of electrodes"
     year: '2015'
   6dHFIA8AAAAJ:LPZeul_q3PIC:
-    citations: 684
+    citations: 694
     title: Immediate neurophysiological effects of transcranial electrical stimulation
     year: '2018'
   6dHFIA8AAAAJ:Mojj43d5GZwC:
@@ -102,7 +102,7 @@ papers:
     title: 'Transcranial direct current stimulation for pure alexia: effects on brain and behavior'
     year: '2015'
   6dHFIA8AAAAJ:P5F9QuxV20EC:
-    citations: 175
+    citations: 176
     title: 'The pursuit of DLPFC: non-neuronavigated methods to target the left dorsolateral pre-frontal cortex with symmetric bicephalic transcranial direct current stimulation (tDCS)'
     year: '2015'
   6dHFIA8AAAAJ:PELIpwtuRlgC:
@@ -110,7 +110,7 @@ papers:
     title: Recordings of electrical potentials in the in vivo human brain induced by transcranial electrical stimulation
     year: '2016'
   6dHFIA8AAAAJ:PR6Y55bgFSsC:
-    citations: 74
+    citations: 75
     title: Radiologist-level performance by using deep learning for segmentation of breast cancers on MRI scans
     year: '2021'
   6dHFIA8AAAAJ:SP6oXDckpogC:
@@ -126,7 +126,7 @@ papers:
     title: Neuronavigation-free and MRI-free Localization of Deep Brain Targets
     year: '2026'
   6dHFIA8AAAAJ:UxriW0iASnsC:
-    citations: 312
+    citations: 316
     title: "The New York Head\u2014A precise standardized volume conductor model for EEG source localization and tES targeting"
     year: '2016'
   6dHFIA8AAAAJ:VLnqNzywnoUC:
@@ -138,7 +138,7 @@ papers:
     title: 'Proceedings# 12: Influence of incorporating electrode information from MR images: Towards building more realistic forward models'
     year: '2019'
   6dHFIA8AAAAJ:W5xh706n7nkC:
-    citations: 12
+    citations: 13
     title: 'Applications of open-source software ROAST in clinical studies: A review'
     year: '2022'
   6dHFIA8AAAAJ:WA5NYHcadZ8C:
@@ -150,15 +150,15 @@ papers:
     title: High-performance open-source Ai for breast cancer detection and localization in MRI
     year: '2025'
   6dHFIA8AAAAJ:XiSMed-E-HIC:
-    citations: 673
+    citations: 685
     title: Measurements and models of electric fields in the in vivo human brain during transcranial electric stimulation
     year: '2017'
   6dHFIA8AAAAJ:XiVPGOgt02cC:
-    citations: 93
+    citations: 94
     title: Combined behavioral and electrophysiological evidence for a direct cortical effect of prefrontal tDCS on disorders of consciousness
     year: '2020'
   6dHFIA8AAAAJ:Y5dfb0dijaUC:
-    citations: 78
+    citations: 79
     title: Optimization of interferential stimulation of the human brain with electrode arrays
     year: '2020'
   6dHFIA8AAAAJ:ZfRJV9d4-WMC:
@@ -190,11 +190,11 @@ papers:
     title: Assessing suitability of ultra-low-field MRI for TES electric field models
     year: '2026'
   6dHFIA8AAAAJ:fEOibwPWpKIC:
-    citations: 23
+    citations: 24
     title: Mapping the electric field of high-definition transcranial electrical stimulation across the lifespan
     year: '2024'
   6dHFIA8AAAAJ:geHnlv5EZngC:
-    citations: 115
+    citations: 117
     title: 'ROAST: an open-source, fully-automated, realistic volumetric-approach-based simulator for TES'
     year: '2018'
   6dHFIA8AAAAJ:ipzZ9siozwsC:
@@ -202,11 +202,11 @@ papers:
     title: "STRENGTH OF TDCS-INDUCED ELECTRICAL FIELD IS ASSOCIATED WITH PSYCHOPHYSIOLOGICAL HABITUATION AND PREDICTS SYMPTOM REDUCTION IN RESPONSE TO TDCS plus VIRTUAL REALITY EXPOSURE \u2026"
     year: '2024'
   6dHFIA8AAAAJ:j8SEvjWlNXcC:
-    citations: 29
+    citations: 32
     title: Early detection of breast cancer in MRI using AI
     year: '2025'
   6dHFIA8AAAAJ:l7t_Zn2s7bgC:
-    citations: 453
+    citations: 456
     title: "Realistic volumetric-approach to simulate transcranial electric stimulation\u2014ROAST\u2014a fully automated open-source pipeline"
     year: '2019'
   6dHFIA8AAAAJ:nb7KW1ujOQ8C:
@@ -256,7 +256,7 @@ papers:
   6dHFIA8AAAAJ:uWiczbcajpAC:
     citations: 0
     title: Virtual Neuronavigation for Parcel-guided TMS
-    year: '2025'
+    year: '2026'
   6dHFIA8AAAAJ:vDijr-p_gm4C:
     citations: 1
     title: Morphological bias of the MNI152 brain
