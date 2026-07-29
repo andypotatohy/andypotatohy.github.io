@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-07-29'
 papers:
   6dHFIA8AAAAJ:-_dYPAW6P2MC:
-    citations: 2
+    citations: 3
     title: Cross-site Validation of AI Segmentation and Harmonization in Breast MRI
     year: '2025'
   6dHFIA8AAAAJ:08ZZubdj9fEC:
@@ -42,7 +42,7 @@ papers:
     title: 'Exploration of the effect of race on cortical current flow due to transcranial direct current stimulation: comparison across Caucasian, Chinese, and Indian Standard Brains'
     year: '2018'
   6dHFIA8AAAAJ:9Nmd_mFXekcC:
-    citations: 17
+    citations: 16
     title: On the need of individually optimizing temporal interference stimulation of human brains due to inter-individual variability
     year: '2025'
   6dHFIA8AAAAJ:9vf0nzSNQJEC:
@@ -112,7 +112,7 @@ papers:
   6dHFIA8AAAAJ:PR6Y55bgFSsC:
     citations: 75
     title: Radiologist-level performance by using deep learning for segmentation of breast cancers on MRI scans
-    year: '2021'
+    year: '2020'
   6dHFIA8AAAAJ:SP6oXDckpogC:
     citations: 30
     title: A highly detailed FEM volume conductor model based on the ICBM152 average head template for EEG source imaging and TCS targeting
@@ -126,7 +126,7 @@ papers:
     title: Neuronavigation-free and MRI-free Localization of Deep Brain Targets
     year: '2026'
   6dHFIA8AAAAJ:UxriW0iASnsC:
-    citations: 316
+    citations: 317
     title: "The New York Head\u2014A precise standardized volume conductor model for EEG source localization and tES targeting"
     year: '2016'
   6dHFIA8AAAAJ:VLnqNzywnoUC:
@@ -146,11 +146,11 @@ papers:
     title: Enhanced tES and tDCS computational models by meninges emulation
     year: '2020'
   6dHFIA8AAAAJ:XD-gHx7UXLsC:
-    citations: 12
+    citations: 11
     title: High-performance open-source Ai for breast cancer detection and localization in MRI
     year: '2025'
   6dHFIA8AAAAJ:XiSMed-E-HIC:
-    citations: 685
+    citations: 684
     title: Measurements and models of electric fields in the in vivo human brain during transcranial electric stimulation
     year: '2017'
   6dHFIA8AAAAJ:XiVPGOgt02cC:
@@ -255,7 +255,7 @@ papers:
     year: '2015'
   6dHFIA8AAAAJ:uWiczbcajpAC:
     citations: 0
-    title: Virtual Neuronavigation for Parcel-guided TMS
+    title: Virtual neuronavigation for parcel-guided TMS
     year: '2026'
   6dHFIA8AAAAJ:vDijr-p_gm4C:
     citations: 1
