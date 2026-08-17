@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-17'
 papers:
   6dHFIA8AAAAJ:-_dYPAW6P2MC:
     citations: 3
@@ -42,7 +42,7 @@ papers:
     title: 'Exploration of the effect of race on cortical current flow due to transcranial direct current stimulation: comparison across Caucasian, Chinese, and Indian Standard Brains'
     year: '2018'
   6dHFIA8AAAAJ:9Nmd_mFXekcC:
-    citations: 18
+    citations: 19
     title: On the need of individually optimizing temporal interference stimulation of human brains due to inter-individual variability
     year: '2025'
   6dHFIA8AAAAJ:9vf0nzSNQJEC:
@@ -90,7 +90,7 @@ papers:
     title: "Transcranial direct current stimulation in obsessive\u2013compulsive disorder: emerging clinical evidence and considerations for optimal montage of electrodes"
     year: '2015'
   6dHFIA8AAAAJ:LPZeul_q3PIC:
-    citations: 702
+    citations: 703
     title: Immediate neurophysiological effects of transcranial electrical stimulation
     year: '2018'
   6dHFIA8AAAAJ:Mojj43d5GZwC:
@@ -106,7 +106,7 @@ papers:
     title: 'Transcranial direct current stimulation for pure alexia: effects on brain and behavior'
     year: '2015'
   6dHFIA8AAAAJ:P5F9QuxV20EC:
-    citations: 174
+    citations: 175
     title: 'The pursuit of DLPFC: non-neuronavigated methods to target the left dorsolateral pre-frontal cortex with symmetric bicephalic transcranial direct current stimulation (tDCS)'
     year: '2015'
   6dHFIA8AAAAJ:PELIpwtuRlgC:
@@ -114,7 +114,7 @@ papers:
     title: Recordings of electrical potentials in the in vivo human brain induced by transcranial electrical stimulation
     year: '2016'
   6dHFIA8AAAAJ:PR6Y55bgFSsC:
-    citations: 74
+    citations: 77
     title: Radiologist-level performance by using deep learning for segmentation of breast cancers on MRI scans
     year: '2021'
   6dHFIA8AAAAJ:SP6oXDckpogC:
@@ -154,7 +154,7 @@ papers:
     title: High-performance open-source Ai for breast cancer detection and localization in MRI
     year: '2025'
   6dHFIA8AAAAJ:XiSMed-E-HIC:
-    citations: 682
+    citations: 684
     title: Measurements and models of electric fields in the in vivo human brain during transcranial electric stimulation
     year: '2017'
   6dHFIA8AAAAJ:XiVPGOgt02cC:
@@ -254,7 +254,7 @@ papers:
     title: Direct experimental validation of computational current flow models with intra-cranial recordings in human and non-human primates
     year: '2017'
   6dHFIA8AAAAJ:uWQEDVKXjbEC:
-    citations: 53
+    citations: 54
     title: Fully automated whole-head segmentation with improved smoothness and continuity, with theory reviewed
     year: '2015'
   6dHFIA8AAAAJ:uWiczbcajpAC:
