@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-26'
 papers:
   6dHFIA8AAAAJ:-_dYPAW6P2MC:
     citations: 3
@@ -14,7 +14,7 @@ papers:
     title: 'Combined behavioral and electrophysiological evidence for a direct cortical effect of prefrontal tDCS on disorders of consciousness. Sci Rep 2020; 10: 4323'
     year: '2018'
   6dHFIA8AAAAJ:1sJd4Hv_s6UC:
-    citations: 217
+    citations: 219
     title: Automated MRI segmentation for individualized modeling of current flow in the human head
     year: '2013'
   6dHFIA8AAAAJ:1yQoGdGgb4wC:
@@ -114,7 +114,7 @@ papers:
     title: Recordings of electrical potentials in the in vivo human brain induced by transcranial electrical stimulation
     year: '2016'
   6dHFIA8AAAAJ:PR6Y55bgFSsC:
-    citations: 77
+    citations: 78
     title: Radiologist-level performance by using deep learning for segmentation of breast cancers on MRI scans
     year: '2021'
   6dHFIA8AAAAJ:SP6oXDckpogC:
@@ -130,7 +130,7 @@ papers:
     title: Neuronavigation-free and MRI-free Localization of Deep Brain Targets
     year: '2026'
   6dHFIA8AAAAJ:UxriW0iASnsC:
-    citations: 324
+    citations: 326
     title: "The New York Head\u2014A precise standardized volume conductor model for EEG source localization and tES targeting"
     year: '2016'
   6dHFIA8AAAAJ:VLnqNzywnoUC:
@@ -246,7 +246,7 @@ papers:
     title: Influence of the effect of race on cortical current flow due to ECT
     year: '2019'
   6dHFIA8AAAAJ:tzM49s52ZIMC:
-    citations: 2
+    citations: 3
     title: Optimized High-Definition tDCS in Patients with Skull Defects and Skull Plates
     year: '2023'
   6dHFIA8AAAAJ:u9iWguZQMMsC:
