@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-26'
+  last_updated: '2026-08-28'
 papers:
   6dHFIA8AAAAJ:-_dYPAW6P2MC:
     citations: 3
@@ -30,7 +30,7 @@ papers:
     title: 'Correction: Measurements and models of electric fields in the in vivo human brain during transcranial electric stimulation'
     year: '2018'
   6dHFIA8AAAAJ:5Ul4iDaHHb8C:
-    citations: 163
+    citations: 164
     title: Can transcranial electric stimulation with multiple electrodes reach deep targets?
     year: '2019'
   6dHFIA8AAAAJ:7T2F9Uy0os0C:
@@ -38,7 +38,7 @@ papers:
     title: Impact of modeled field of view in electroconvulsive therapy current flow simulations
     year: '2023'
   6dHFIA8AAAAJ:8AbLer7MMksC:
-    citations: 8
+    citations: 9
     title: 'Exploration of the effect of race on cortical current flow due to transcranial direct current stimulation: comparison across Caucasian, Chinese, and Indian Standard Brains'
     year: '2018'
   6dHFIA8AAAAJ:9Nmd_mFXekcC:
@@ -90,7 +90,7 @@ papers:
     title: "Transcranial direct current stimulation in obsessive\u2013compulsive disorder: emerging clinical evidence and considerations for optimal montage of electrodes"
     year: '2015'
   6dHFIA8AAAAJ:LPZeul_q3PIC:
-    citations: 703
+    citations: 704
     title: Immediate neurophysiological effects of transcranial electrical stimulation
     year: '2018'
   6dHFIA8AAAAJ:Mojj43d5GZwC:
@@ -114,7 +114,7 @@ papers:
     title: Recordings of electrical potentials in the in vivo human brain induced by transcranial electrical stimulation
     year: '2016'
   6dHFIA8AAAAJ:PR6Y55bgFSsC:
-    citations: 78
+    citations: 79
     title: Radiologist-level performance by using deep learning for segmentation of breast cancers on MRI scans
     year: '2021'
   6dHFIA8AAAAJ:SP6oXDckpogC:
@@ -130,7 +130,7 @@ papers:
     title: Neuronavigation-free and MRI-free Localization of Deep Brain Targets
     year: '2026'
   6dHFIA8AAAAJ:UxriW0iASnsC:
-    citations: 326
+    citations: 327
     title: "The New York Head\u2014A precise standardized volume conductor model for EEG source localization and tES targeting"
     year: '2016'
   6dHFIA8AAAAJ:VLnqNzywnoUC:
