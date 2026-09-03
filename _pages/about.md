@@ -38,4 +38,6 @@ So here’s my visions for my tenure-track position:
 
 * Create next generation of AI with world models and intrinsic goal-chasing ability, leveraging our current understandings in biology instead of computer science (definitely not language models). I'd call it Science-Inspired AI. The ultimate question asks, both philosophically and scientifically, can computation alone achieve human-level autonomous intelligence?
 
-Feeling inspired? Shoot me an email for anything (ideas, discussions, collaborations, etc.). I'm hiring PhD students (email me for details).
+Feeling inspired? Shoot me an email for anything (ideas, discussions, collaborations, etc.).
+
+# Open position in my lab: one PhD student position is open NOW, see <a href='https://andypotatohy.github.io/assets/pdf/phdHiringAds-andyHuang.pdf'>this post</a> for details.
