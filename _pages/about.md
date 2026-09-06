@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor, <a href='https://eas.uccs.edu/departments/computer-science'>University of Colorado at Colorado Springs</a>.
+subtitle: Assistant Professor, <a href='https://eas.uccs.edu/staff/dr-yu-andy-huang'>University of Colorado at Colorado Springs</a>.
 
 profile:
   align: right
