@@ -40,4 +40,4 @@ So here’s my visions for my tenure-track position:
 
 Feeling inspired? Shoot me an email for anything (ideas, discussions, collaborations, etc.).
 
-# Open position in my lab: one PhD student position is open NOW, see <a href='https://andypotatohy.github.io/assets/pdf/phdHiringAds-andyHuang.pdf'>this post</a> for details.
+<!-- # Open position in my lab: one PhD student position is open NOW, see <a href='https://andypotatohy.github.io/assets/pdf/phdHiringAds-andyHuang.pdf'>this post</a> for details.-->
